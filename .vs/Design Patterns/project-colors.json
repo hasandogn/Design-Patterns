@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "093c180f-9543-4ade-969e-d060dc4557d9": {
+      "ProjectGuid": "093c180f-9543-4ade-969e-d060dc4557d9",
+      "DisplayName": "Design Patterns",
+      "ColorIndex": 0
+    },
+    "e3aa410b-0b69-4c2f-99fc-c4c4f95e807f": {
+      "ProjectGuid": "e3aa410b-0b69-4c2f-99fc-c4c4f95e807f",
+      "DisplayName": "ProxyPattern",
+      "ColorIndex": 1
+    },
+    "099353a5-7a35-450c-972f-f4cc4bbdab3e": {
+      "ProjectGuid": "099353a5-7a35-450c-972f-f4cc4bbdab3e",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 2
+    },
+    "6824ae8a-74b6-404e-a011-4a5699e27937": {
+      "ProjectGuid": "6824ae8a-74b6-404e-a011-4a5699e27937",
+      "DisplayName": "ProxyPattern",
+      "ColorIndex": 3
+    },
+    "5511dc22-00ea-4d80-8294-a32a48a7e98e": {
+      "ProjectGuid": "5511dc22-00ea-4d80-8294-a32a48a7e98e",
+      "DisplayName": "ProxyPattern",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
