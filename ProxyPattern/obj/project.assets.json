@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "AbstractCoupling/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AbstractCoupling.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractCoupling.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AbstractCoupling/1.0.0": {
+      "type": "project",
+      "path": "../AbstractCoupling/AbstractCoupling.csproj",
+      "msbuildProject": "../AbstractCoupling/AbstractCoupling.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "AbstractCoupling >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hsndo\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hsndo\\source\\repos\\Design Patterns\\AbstractCoupling\\AbstractCoupling.csproj": {
+              "projectPath": "C:\\Users\\hsndo\\source\\repos\\Design Patterns\\AbstractCoupling\\AbstractCoupling.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
