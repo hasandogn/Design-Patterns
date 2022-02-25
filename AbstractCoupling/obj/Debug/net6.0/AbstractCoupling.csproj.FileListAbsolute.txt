@@ -1,0 +1,15 @@
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\bin\Debug\net6.0\AbstractCoupling.exe
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\bin\Debug\net6.0\AbstractCoupling.deps.json
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\bin\Debug\net6.0\AbstractCoupling.runtimeconfig.json
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\bin\Debug\net6.0\AbstractCoupling.dll
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\bin\Debug\net6.0\ref\AbstractCoupling.dll
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\bin\Debug\net6.0\AbstractCoupling.pdb
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.csproj.AssemblyReference.cache
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.AssemblyInfoInputs.cache
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.AssemblyInfo.cs
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.csproj.CoreCompileInputs.cache
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.dll
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\ref\AbstractCoupling.dll
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.pdb
+C:\Users\hsndo\source\repos\Design Patterns\AbstractCoupling\obj\Debug\net6.0\AbstractCoupling.genruntimeconfig.cache
