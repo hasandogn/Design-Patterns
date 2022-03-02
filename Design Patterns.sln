@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "AbstractCou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouplingAndChoesionApp", "CouplingAndChoesionApp\CouplingAndChoesionApp.csproj", "{51E1A939-B902-4D9F-A1C5-B9336C8F9E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anemic", "Anemic\Anemic.csproj", "{11FCC3CA-72D4-4840-8420-329CE647708E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{51E1A939-B902-4D9F-A1C5-B9336C8F9E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51E1A939-B902-4D9F-A1C5-B9336C8F9E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51E1A939-B902-4D9F-A1C5-B9336C8F9E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FCC3CA-72D4-4840-8420-329CE647708E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FCC3CA-72D4-4840-8420-329CE647708E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FCC3CA-72D4-4840-8420-329CE647708E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FCC3CA-72D4-4840-8420-329CE647708E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
