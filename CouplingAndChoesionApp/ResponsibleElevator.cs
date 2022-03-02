@@ -11,7 +11,7 @@ namespace CouplingAndChoesionApp
         private bool doorOpen { get; set; } = false;
         private bool stopped { get; set; } = true;
         private Floor.FloorEnums currentFloor = Floor.FloorEnums.EXTRANCE;
-        private int weight = 0;
+        private int weight { get; set; } = 0;
 
         private readonly int CAPACITY = 1000;
 
@@ -38,7 +38,7 @@ namespace CouplingAndChoesionApp
                 Console.WriteLine("The elevator has exceeded capacity, doors will remain open until someone exirs!");
         }
 
-        public void goToFloor(Floor desiredFloor)
+        public void goToFloor(Floor.FloorEnums desiredFloor)
         {
             int compare = currentFloor.CompareTo(desiredFloor);
             while (compare != 0)
