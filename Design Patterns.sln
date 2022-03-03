@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouplingAndChoesionApp", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anemic", "Anemic\Anemic.csproj", "{11FCC3CA-72D4-4840-8420-329CE647708E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{11FCC3CA-72D4-4840-8420-329CE647708E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11FCC3CA-72D4-4840-8420-329CE647708E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11FCC3CA-72D4-4840-8420-329CE647708E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\hsndo\source\repos\Design Patterns\LSP\bin\Debug\net6.0\LSP.exe
+C:\Users\hsndo\source\repos\Design Patterns\LSP\bin\Debug\net6.0\LSP.deps.json
+C:\Users\hsndo\source\repos\Design Patterns\LSP\bin\Debug\net6.0\LSP.runtimeconfig.json
+C:\Users\hsndo\source\repos\Design Patterns\LSP\bin\Debug\net6.0\LSP.dll
+C:\Users\hsndo\source\repos\Design Patterns\LSP\bin\Debug\net6.0\ref\LSP.dll
+C:\Users\hsndo\source\repos\Design Patterns\LSP\bin\Debug\net6.0\LSP.pdb
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\LSP.AssemblyInfoInputs.cache
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\LSP.AssemblyInfo.cs
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\LSP.dll
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\ref\LSP.dll
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\LSP.pdb
+C:\Users\hsndo\source\repos\Design Patterns\LSP\obj\Debug\net6.0\LSP.genruntimeconfig.cache
