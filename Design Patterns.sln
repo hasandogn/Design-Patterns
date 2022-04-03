@@ -5,15 +5,27 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{5511DC22-00EA-4D80-8294-A32A48A7E98E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractCoupling", "AbstractCoupling\AbstractCoupling.csproj", "{7C8A2E47-038B-44E6-8F84-50CC839A224A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractCoupling", "AbstractCoupling\AbstractCoupling.csproj", "{7C8A2E47-038B-44E6-8F84-50CC839A224A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "AbstractCoupling2\Polymorphism.csproj", "{F0ABCA65-173C-4AE5-BAA0-B9216C5222E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "AbstractCoupling2\Polymorphism.csproj", "{F0ABCA65-173C-4AE5-BAA0-B9216C5222E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouplingAndChoesionApp", "CouplingAndChoesionApp\CouplingAndChoesionApp.csproj", "{51E1A939-B902-4D9F-A1C5-B9336C8F9E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CouplingAndChoesionApp", "CouplingAndChoesionApp\CouplingAndChoesionApp.csproj", "{51E1A939-B902-4D9F-A1C5-B9336C8F9E5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anemic", "Anemic\Anemic.csproj", "{11FCC3CA-72D4-4840-8420-329CE647708E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anemic", "Anemic\Anemic.csproj", "{11FCC3CA-72D4-4840-8420-329CE647708E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP", "LSP\LSP.csproj", "{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP", "DIP\DIP.csproj", "{9EEB4C97-96AD-4A16-B398-B4B8B966C263}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-1-Singleton", "1-1-Singleton\1-1-Singleton.csproj", "{DE4A5656-8607-48BF-8911-DC13FE677B1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-1-SingletonReflection", "1-1-SingletonReflection\1-1-SingletonReflection.csproj", "{2BF1D9BA-ADE7-477E-A136-8B9022E28350}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-1-UpdatableSingleton", "1-1-UpdatableSingleton\1-1-UpdatableSingleton.csproj", "{E00D850D-E21E-4CC8-B78A-0ACA6071047B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-2-FactoryMethod", "1-2-FactoryMethod\1-2-FactoryMethod.csproj", "{9797F3E7-DF0A-4FBC-BF23-F34A367F68CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1-BillPughForSignleton", "1-1-BillPughForSignleton\1-1-BillPughForSignleton.csproj", "{65E93664-5C41-4005-A7DD-3848359762F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +57,30 @@ Global
 		{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC2ABC89-9D6D-47D1-8C5A-DF1F3D66F06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEB4C97-96AD-4A16-B398-B4B8B966C263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEB4C97-96AD-4A16-B398-B4B8B966C263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEB4C97-96AD-4A16-B398-B4B8B966C263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEB4C97-96AD-4A16-B398-B4B8B966C263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4A5656-8607-48BF-8911-DC13FE677B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4A5656-8607-48BF-8911-DC13FE677B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4A5656-8607-48BF-8911-DC13FE677B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4A5656-8607-48BF-8911-DC13FE677B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF1D9BA-ADE7-477E-A136-8B9022E28350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF1D9BA-ADE7-477E-A136-8B9022E28350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF1D9BA-ADE7-477E-A136-8B9022E28350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF1D9BA-ADE7-477E-A136-8B9022E28350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00D850D-E21E-4CC8-B78A-0ACA6071047B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00D850D-E21E-4CC8-B78A-0ACA6071047B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00D850D-E21E-4CC8-B78A-0ACA6071047B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00D850D-E21E-4CC8-B78A-0ACA6071047B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9797F3E7-DF0A-4FBC-BF23-F34A367F68CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9797F3E7-DF0A-4FBC-BF23-F34A367F68CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9797F3E7-DF0A-4FBC-BF23-F34A367F68CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9797F3E7-DF0A-4FBC-BF23-F34A367F68CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E93664-5C41-4005-A7DD-3848359762F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E93664-5C41-4005-A7DD-3848359762F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E93664-5C41-4005-A7DD-3848359762F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E93664-5C41-4005-A7DD-3848359762F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
