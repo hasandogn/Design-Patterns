@@ -25,7 +25,37 @@
       "ProjectGuid": "5511dc22-00ea-4d80-8294-a32a48a7e98e",
       "DisplayName": "ProxyPattern",
       "ColorIndex": 4
+    },
+    "65e93664-5c41-4005-a7dd-3848359762f3": {
+      "ProjectGuid": "65e93664-5c41-4005-a7dd-3848359762f3",
+      "DisplayName": "1-1-BillPughForSignleton",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9797f3e7-df0a-4fbc-bf23-f34a367f68cd": {
+      "ProjectGuid": "9797f3e7-df0a-4fbc-bf23-f34a367f68cd",
+      "DisplayName": "1-2-FactoryMethod",
+      "ColorIndex": 6
+    },
+    "e00d850d-e21e-4cc8-b78a-0aca6071047b": {
+      "ProjectGuid": "e00d850d-e21e-4cc8-b78a-0aca6071047b",
+      "DisplayName": "1-1-UpdatableSingleton",
+      "ColorIndex": 7
+    },
+    "2bf1d9ba-ade7-477e-a136-8b9022e28350": {
+      "ProjectGuid": "2bf1d9ba-ade7-477e-a136-8b9022e28350",
+      "DisplayName": "1-1-SingletonReflection",
+      "ColorIndex": 8
+    },
+    "de4a5656-8607-48bf-8911-dc13fe677b1b": {
+      "ProjectGuid": "de4a5656-8607-48bf-8911-dc13fe677b1b",
+      "DisplayName": "1-1-Singleton",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 10
 }
